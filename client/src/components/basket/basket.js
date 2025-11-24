@@ -67,7 +67,6 @@ export default function Basket() {
             itemTemplate={itemTemplate} 
             rows={5} 
             header="Click Load Button at Footer to Load More" />
-            <p>shani</p>
         </div>
     )
 }
